@@ -20,7 +20,8 @@
 
 <h4 align="left">Databases</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=lucasdsm9&&show_icons=true&theme=dark"/>
